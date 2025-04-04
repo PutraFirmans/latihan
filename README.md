@@ -1,3 +1,5 @@
-#Latihan 
-ini adalah repo buatan putra untuk berlatih coding.
-# latihan
+# Latihan 
+Halo nama saya adalah putra firmansyah
+'''
+git help
+'''
