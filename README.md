@@ -1,16 +1,3 @@
-# latihan
-# latihan
-# latihan
-# latihan
-# latihan
-# latihan
-# latihan
-# latihan
-# latihan
-# latihan
-# latihan
-# latihan
-# python
-# latihan
-# latihan
+#Latihan 
+ini adalah repo buatan putra untuk berlatih coding.
 # latihan
